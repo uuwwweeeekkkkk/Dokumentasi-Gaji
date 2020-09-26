@@ -1,0 +1,2 @@
+# List-Gaji
+Dokumentasi Gaji
